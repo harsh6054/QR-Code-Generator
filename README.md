@@ -37,5 +37,8 @@ The application allows users to generate QR codes for text or URLs, customize th
 
 ---
 
+## Click below link to use
+https://qrcode-hp.netlify.app/
 
+---
 
