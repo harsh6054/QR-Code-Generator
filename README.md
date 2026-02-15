@@ -18,22 +18,14 @@ The application allows users to generate QR codes for text or URLs, customize th
 
 ## Technologies Used
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
+- HTML  
+- CSS  
+- JavaScript 
 - QRCode.js Library  
 
 ---
 
 
-## How to Use
-
-1. Clone or download this repository  
-2. Open `index.html` in a web browser  
-3. Enter text or a URL  
-4. Select the desired QR code size  
-5. Click **Generate**  
-6. Click **Download** to save the QR code  
 
 ---
 
